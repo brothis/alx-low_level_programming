@@ -1,7 +1,7 @@
 include < stdio.h >
 /**
  * main - Write a C program that prints exactly
- * Return: (0)
+ * Return: 0 (pass)
  */
 int main(void)
 {
