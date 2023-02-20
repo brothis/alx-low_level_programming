@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 /**
  * main - Write a C program that prints exactly
  * Return: 0 (pass)
